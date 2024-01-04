@@ -1,0 +1,18 @@
+"use strict";
+let username = "Gerry";
+let phone = 1234567890;
+let stat = false;
+let day;
+let tools;
+let test;
+test = "testing";
+test = 123;
+day = 28;
+console.log({ day });
+day = "Sunday";
+console.log({ day });
+tools = ["paper", "pen", "eraser"];
+console.log({ tools });
+console.log({ username });
+console.log({ phone });
+console.log({ stat });
